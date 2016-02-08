@@ -1,0 +1,11 @@
+## Interface: 60200
+## Title: VS-UI
+## Notes: A World Of Warcraft User Interface brought to you by Vengeful Syndicate.
+## Author: Nozza
+## Version: 0.0.1
+## RequiredDeps: 
+## OptionalDeps: 
+## SavedVariables: VSUIGlobalConfig
+## SavedVariablesPerCharacter: VSUIConfig
+
+GlobalStrings.lua
